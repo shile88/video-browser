@@ -1,0 +1,14 @@
+.ui.input {
+    width: 90%;
+    margin: 20px;
+}
+
+.ui.grid {
+    align-items: center;
+}
+
+.logo {
+    color: red;
+   padding-left: 20px;
+  
+}

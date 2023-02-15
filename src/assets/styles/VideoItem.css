@@ -1,0 +1,20 @@
+.video-list-title {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.video-item {
+    cursor:  pointer !important;
+}
+
+.ui.items>.item {
+    align-items: center;
+}
+
+.ui.items>.item:hover {
+    background-color:rgba(192,192,192,0.2)
+}
+
